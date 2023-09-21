@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body {
+  background-color: black;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+p {
+ text-align: center;
+ color: white;
+}
+a ref {
+  color: white;
+}
